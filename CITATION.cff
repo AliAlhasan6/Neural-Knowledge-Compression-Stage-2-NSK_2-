@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "NSK Stage 2 — Knowledge Graph Embedder"
+message: "If you use this work, please cite the associated papers."
+type: software
+authors:
+  - given-names: "Alhasan"
+    family-names: "Ali"
+    email: "Aliyossefalhasan@gmail.com"
+    affiliation: "St. Petersburg Electrotechnical University LETI"
+  - given-names: "I. I."
+    family-names: "Viksnin"
+    email: "wixnin@mail.ru"
+    affiliation: "St. Petersburg Electrotechnical University LETI"
+license: MIT
+repository-code: ""
+preferred-citation:
+  type: article
+  title: "Neuro-Symbolic Knowledge Graph Compression and Fusion for Distributed Multi-Agent Systems"
+  authors:
+    - given-names: "Alhasan"
+      family-names: "Ali"
+    - given-names: "I. I."
+      family-names: "Viksnin"
+  year: 2026
+  notes: "In preparation"

@@ -1,0 +1,8 @@
+# Minimum dependencies for the NSK Stage 2 graph embedder.
+# Pinned versions and additional packages will be released with the
+# full source code at publication.
+
+torch>=2.0
+torch-geometric>=2.4
+numpy>=1.24
+pandas>=2.0
